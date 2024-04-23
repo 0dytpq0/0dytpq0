@@ -10,10 +10,11 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## ⚡ GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=0dytpq0&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0dytpq0&layout=compact&count_private=true&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=0dytpq0&theme=gruvbox" />  
+
 
